@@ -1,12 +1,12 @@
 # Des Moines CitiBike
 
-## Challenge Overview
+## Project Overview
 
 The purpose of this analysis is to:
 -	Provide an analysis that convinces investors that a bike-sharing program is viable in Des Moines
 -	Use NYC CitiBike data to show how the model will work in Des Moines
 
-## Challenge Results
+## Results
 
 The [Des Moines CitiBike Proposal]( https://public.tableau.com/shared/3YS63Z52H?:display_count=y&:origin=viz_share_link):
 
@@ -24,7 +24,7 @@ The [Des Moines CitiBike Proposal]( https://public.tableau.com/shared/3YS63Z52H?
 
 -	Males have a similar trend to the last graph.  Females kept the bikes for 4-9 hours with some keeping the bikes upwards of 16 hours.
 
-## Challenge Summary
+## Summary
 
 -	To start a bike-sharing program in Des Moines, target customers would need to on the younger side. Programs that benefit high use times, subscribers, and that draws in new customers and more female users would benefit the program.  
 
