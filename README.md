@@ -14,15 +14,27 @@ The [Des Moines CitiBike Proposal]( https://public.tableau.com/shared/3YS63Z52H?
 
 -	The average trip duration is longer with younger users.
 
+![Trip Duration by Age](Resources/images/trip_duration_by_age.PNG)
+
 -	Male and female customers use the bikes mostly on weekends.  Male and female subscribers use the bikes mostly on Thursday and Friday.  Male subscribers use the bikes the most.
+
+![Trip Usage by Gender](Resources/images/gender_usage.PNG)
 
 -	Weekly usage of the bike has high hours between 6-9am and 4-7pm.  Weekend usage is consistent from 10-5pm.
 
+![Trip Weekday Usage](Resources/images/high_hours.PNG)
+
 -	Weekly usage by gender follows the same trend as the last heat map.  Males and females have the most usage on Thursdays from 5-6pm.
+
+![Trip Weekday Usage by Gender](Resources/images/trips_by_gender_per_hour.PNG)
 
 -	Bikes were kept between 4-6 hours, with many bikes kept upwards of 15 hours.
 
+![Checkout Time](Resources/images/checkout_time.PNG)
+
 -	Males have a similar trend to the last graph.  Females kept the bikes for 4-9 hours with some keeping the bikes upwards of 16 hours.
+
+![Checkout Time by Gender](Resources/images/checkout_times_by_gender.PNG)
 
 ## Summary
 
