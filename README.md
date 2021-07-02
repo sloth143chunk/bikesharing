@@ -38,7 +38,7 @@ The [Des Moines CitiBike Proposal]( https://public.tableau.com/shared/3YS63Z52H?
 
 ## Summary
 
--	To start a bike-sharing program in Des Moines, target customers would need to on the younger side. Programs that benefit high use times, subscribers, and that draws in new customers and more female users would benefit the program.  
+-	To start a bike-sharing program in Des Moines, target customers would need to on the younger side. Programs that benefit low use times, subscribers, and that draws in new customers and more female users would benefit the program.  
 
 -	Another visualization that should be created is a map showing the most used start and end stations.  This would serve in choosing station placements around Des Moines.  Checking the locations in relation to parks, museums, bars, etc. would suit in choosing primary locations.
 
