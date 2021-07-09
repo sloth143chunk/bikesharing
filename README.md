@@ -3,8 +3,8 @@
 ## Project Overview
 
 The purpose of this analysis is to:
--	Provide an analysis that convinces investors that a bike-sharing program is viable in Des Moines
--	Use NYC CitiBike data to show how the model will work in Des Moines
+-	Provide an analysis of NYC market data of a bike-sharing program to evaluate and forecast viability in Des Moines, Iowa
+-	Presented NYC CitiBike data on Tableau to convince investors how the model will work in Des Moines
 
 ## Results
 
